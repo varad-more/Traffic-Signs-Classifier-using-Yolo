@@ -1,5 +1,5 @@
-# Traffic-Signs-Classifier-using-Yolo
-# YOLO Traffic Sign Detection 
+# Traffic Signs Classifier using Yolo
+<!--# YOLO Traffic Sign Detection-->
 
 ## Installation and configuration of YOLO
 
